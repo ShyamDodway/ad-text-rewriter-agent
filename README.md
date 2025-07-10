@@ -3,12 +3,12 @@
 
 This project is a lightweight AI agent that rewrites ad text in a fun or professional tone using `google/flan-t5-large` via Hugging Face and FastAPI.
 
-## 💡 Features
+##  Features
 - Accepts a prompt (e.g. "Rewrite this ad in fun tone")
 - Uses Hugging Face LLM via LangChain
 - Exposes an API at `/run-agent`
 
-## 🚀 How to Run
+##  How to Run
 
 1. Clone the repo
 2. Install dependencies:
